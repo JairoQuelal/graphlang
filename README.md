@@ -23,8 +23,8 @@ GraphLang is a simple, domain-specific programming language designed for generat
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/JairoQuelal/graphlang.git
+   cd graphlang
    ```
 
 2. **Install `gnuplot`**:
